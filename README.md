@@ -1,3 +1,7 @@
+# SorteoTNM
+
+---
+
 🏀 **Sistema de Gestión de Grupos Deportivos (SorteoTNM)**  
 
 Sistema web Backend en Node para la gestión y visualización de grupos deportivos en evento institucional deportivo.  
