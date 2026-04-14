@@ -1,6 +1,5 @@
 # SorteoTNM
 
----
 
 🏀 **Sistema de Gestión de Grupos Deportivos (SorteoTNM)**  
 
