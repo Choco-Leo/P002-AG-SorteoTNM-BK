@@ -22,18 +22,18 @@ El proyecto SorteoTNM es una aplicación web desarrollada para facilitar la orga
 
 ## Variables de Entorno
 
-PORT = Puerto en el que se ejecuta el servidor
-NODE_ENV = Entorno de ejecución (development/production)
-CORS_ORIGIN = Origen de acceso permitido
+- PORT = Puerto en el que se ejecuta el servidor
+- NODE_ENV = Entorno de ejecución (development/production)
+- CORS_ORIGIN = Origen de acceso permitido
 
-DB_HOST = Host de la base de datos
-DB_USER = Usuario de la base de datos
-DB_PASSWORD = Contraseña de la base de datos
-DB_NAME = Nombre de la base de datos
-DB_PORT = Puerto de la base de datos
+- DB_HOST = Host de la base de datos
+- DB_USER = Usuario de la base de datos
+- DB_PASSWORD = Contraseña de la base de datos
+- DB_NAME = Nombre de la base de datos
+- DB_PORT = Puerto de la base de datos
 
-JWT_SECRET = Clave secreta para firmar tokens JWT
-SALT = Factor de costo para bcrypt
+- JWT_SECRET = Clave secreta para firmar tokens JWT
+- SALT = Factor de costo para bcrypt
 
 ## Endpoints API
 
